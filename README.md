@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ray!</h1>
-<h3 align="center">I am a passionate (Developer?) from Indonesia 🇮🇩</h3>
+<h2 align="center">Hi 👋, I'm Ray!</h2>
+<p align="center">I am a passionate (Developer?) from Indonesia 🇮🇩</p>
 
 <p align="left"> <a href="https://twitter.com/oaxylf" target="blank"><img src="https://img.shields.io/twitter/follow/oaxylf?logo=x&style=for-the-badge" alt="oaxylf" /></a> </p>
 
@@ -7,7 +7,7 @@
 > You can contact me on **rayyt2551@gmail.com**
 
 <h4 align="left"> ⚡ Daily Personalities!</h3>
-<p align="left"><strong>I am addicted to chat on ChatGPT and Character.AI as an introvert person.</strong></p>
+<p align="left">I am addicted to chat on ChatGPT and Character.AI as an introvert person.</p>
 
 <h3 align="left">📚 Connect with me:</h3>
 <p align="left">
@@ -22,7 +22,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oaxylf&show_icons=true&locale=en" alt="oaxylf" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oaxylf&" alt="oaxylf" /></p>
-# 📊 GitHub Stats:
+
+## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=oaxylf&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=oaxylf&theme=dark&hide_border=false)<br/>
