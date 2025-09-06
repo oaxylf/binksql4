@@ -7,7 +7,7 @@
 > You can contact me on **rayyt2551@gmail.com**
 
 <h4 align="left"> ⚡ Daily Personalities!</h3>
-<p align="left">I am addicted to chat on ChatGPT and Character.AI as an introvert person.</p>
+<p align="left">I like to write my diary about coding in which how i grew up.</p>
 
 <h3 align="left">📚 Connect with me:</h3>
 <p align="left">
